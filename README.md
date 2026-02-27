@@ -3,8 +3,7 @@
 ## 🚀 Project Overview
 This project focuses on transforming raw transactional data into an interactive Excel Dashboard. It analyzes coffee sales from 2019 to 2022, providing insights into revenue trends, customer high-value behavior, and regional performance across the US, UK, and Ireland.
 
-![Data Architecture]( <img width="1906" height="1017" alt="image" src="https://github.com/user-attachments/assets/ff0c8c5f-6e59-4d7d-b930-9b0917d6cfd7" />
-)
+![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/41d480ab2c53b7caa714ff7150d091dbb5e27bd7/visualization%20(screenshots)/dashboard.png)
 
 
 ---
