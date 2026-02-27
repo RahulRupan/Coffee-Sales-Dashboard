@@ -1,43 +1,144 @@
-# ☕ Coffee Sales Analysis Dashboard (Excel)
+# ☕ Coffee Sales Dashboard
 
-##  Project Overview
-This project focuses on transforming raw transactional data into an interactive Excel Dashboard. It analyzes coffee sales from 2019 to 2022, providing insights into revenue trends, customer high-value behavior, and regional performance across the US, UK, and Ireland.
+## 📊 Project Overview
+
+This project is an interactive **Coffee Sales Dashboard** built using Microsoft Excel to analyze sales performance, customer behavior, and product trends.
+
+The goal of this project is to transform raw sales data into meaningful **business insights** that help decision-makers understand sales performance and improve strategy.
+
+This project demonstrates my skills in **data cleaning, Excel analysis, and dashboard design.**
+
+---
+
+## 🎯 Business Problem
+
+A coffee business wants to understand:
+
+- Which coffee products sell the most
+- Who the top customers are
+- Which countries generate the most revenue
+- Monthly sales trends
+- Overall business performance
+
+This dashboard helps management make **data-driven decisions.**
+
+---
+
+## 🛠 Tools & Skills Used
+
+### Tools
+- Microsoft Excel
+
+### Skills
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Analysis
+- Data Visualization
+- XLOOKUP
+- Sorting and Filtering
+
+---
+
+## 📈 Dashboard Features
+
+The dashboard includes:
+
+- Total Sales Analysis
+- Sales Over Time (Trend Analysis)
+- Top 5 Customers
+- Sales by Country
+- Product Performance Analysis
+- Interactive Filters
+
+---
+
+## 📊 Key Insights
+
+Some important insights from the dashboard:
+
+- Certain coffee products generate the highest revenue
+- A small number of customers contribute a large portion of sales
+- Sales vary across different countries
+- Monthly trends help identify peak sales periods
+
+---
+
+## 🔄 Project Process
+
+### Step 1 — Data Cleaning
+
+- Checked missing values
+- Corrected data formatting
+- Organized columns
+
+### Step 2 — Data Preparation
+
+- Used Excel formulas like XLOOKUP
+- Created calculated fields
+- Structured data for analysis
+
+### Step 3 — Analysis
+
+- Built Pivot Tables
+- Analyzed product performance
+- Analyzed customer behavior
+
+### Step 4 — Dashboard Creation
+
+- Designed interactive dashboard
+- Added charts and KPIs
+- Added filters for dynamic analysis
+
+---
+
+## 📷 Dashboard Preview
 
 ![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/d859260bedf3628d7e5941bcde937ba68cbd5ea1/visualization%20(screenshots)/dashboard.png)
 
 ---
 
-## 🛠️ Excel Skills & Technical Implementation
-I utilized advanced Excel features to build this end-to-end solution:
+## 💡 What I Learned
 
-* **Data Cleaning:** Used `TRIM`, removed duplicates, and handled missing contact information (emails/phones).
-* **Data Modeling:** Implemented **XLOOKUP** and **INDEX-MATCH** to create a relational structure between the Orders, Customers, and Products tables.
-* **Formula Logic:** Created calculated columns for total sales, unit conversion, and dynamic coffee type naming.
-* **Analysis:** Built multiple **Pivot Tables** to aggregate thousands of rows of data into meaningful business metrics.
-* **Interactive Visualization:** * **Dynamic Dashboards:** Created Pivot Charts (Line, Bar, and Column).
-    * **Slicers:** Added interactive filters for *Roast Type*, *Size*, and *Loyalty Card* status.
-    * **Timeline:** Added a date-based filter to switch between years and months instantly.
+Through this project I learned:
+
+- How to convert raw data into insights
+- How to design professional dashboards
+- How businesses use data for decision making
+- How to structure a real-world analysis project
 
 ---
 
-## 📂 Repository Structure
-* **orders.csv:** Transaction data (Quantity, Product IDs, Dates).
-* **customers.csv:** Detailed customer profiles and loyalty status.
-* **products.csv:** Product catalog with pricing and roast details.
-* **Coffee_sales_Dashboard.xlsx:** The final interactive dashboard file.
+## 🚀 Future Improvements
+
+- Tableau version
+- SQL version
+- Advanced KPI metrics
+- Automated data refresh
 
 ---
 
-## 📈 Key Business Insights
-* **Top Market:** The **United States** is the primary revenue driver, contributing over $35,000 in sales.
-* **Top Customer:** **Allis Wilmore** is the highest-spending customer ($317.07).
-* **Product Performance:** **Arabica** coffee is the most popular variety across all regions.
-* **Loyalty Impact:** A high percentage of the top 5 customers are part of the **Loyalty Card** program, proving its effectiveness.
+## 👨‍💻 Author
+
+**Rahul**
+
+GitHub:  
+https://github.com/RahulRupan
 
 ---
 
-## 🌟 About Me
-Hi, I'm **Rupan** 👋  
-An aspiring **Data Analyst** focused on SQL, Excel, and Data Warehousing. I enjoy turning complex data into actionable visual stories.
+## ⭐ Why This Project Matters
 
-🔗 **Connect with me:** [GitHub Profile](https://github.com/RahulRupan)
+This project demonstrates my ability to:
+
+- Work with real-world datasets
+- Perform business analysis
+- Build dashboards
+- Present insights clearly
+
+This project is part of my **Data Analyst Portfolio.**
+
+
+
+
