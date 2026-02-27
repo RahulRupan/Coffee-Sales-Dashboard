@@ -1,157 +1,136 @@
-📊 Excel Sales Dashboard Project
-📌 Project Overview
+📊 Excel Data Analysis and Dashboard Project
 
-This project is a Microsoft Excel Data Analysis and Dashboard Project designed to transform raw sales data into meaningful business insights.
+Welcome to the My Excel Data Analysis Project repository! 🚀
+This project demonstrates a complete Excel-based data analysis and dashboard solution, from preparing raw data to generating business insights. It highlights skills in data analysis, dashboard development, and business reporting using Microsoft Excel.
 
-The project demonstrates how Excel can be used as a powerful data analysis tool to clean, analyze, and visualize business data.
+🏗️ Data Architecture
 
-This dashboard provides insights into:
+The data architecture for this project follows a structured Excel data model using Raw Data, Clean Data, and Dashboard layers.
 
-Sales Performance
+🟤 Raw Data Layer
 
-Customer Behavior
+Stores raw data as-is from the source dataset
 
-Product Trends
+Data is stored in Excel worksheets
 
-Geographic Sales Distribution
+⚪ Clean Data Layer
 
-🎯 Project Objectives
+Performs data cleansing and standardization
 
-The main objectives of this project are:
+Resolves data quality issues to prepare data for analysis
 
-Analyze sales performance
+Formats columns and removes duplicates
 
-Identify top customers
+🟡 Dashboard Layer
 
-Understand country-wise sales distribution
+Houses business-ready insights
 
-Track product performance
+Data is analyzed using Pivot Tables and Charts
 
-Build an interactive dashboard
+Interactive dashboard for reporting and analytics
 
-🧰 Tools Used
+📐 Architecture Diagram
+![Dashboard](Screenshots/dashboard.png)
+📖 Project Overview
+
+This project involves:
+
+Data Preparation: Cleaning and organizing raw Excel data
+
+Data Analysis: Using Pivot Tables and Excel formulas
+
+Dashboard Development: Creating an interactive Excel dashboard
+
+Analytics & Reporting: Generating business insights from data
+
+🎯 Skills Demonstrated
+
+This repository is an excellent resource for showcasing expertise in:
+
+Excel Data Analysis
+
+Data Cleaning
+
+Dashboard Development
+
+Pivot Tables
+
+Data Visualization
+
+Business Analysis
+
+🛠️ Tools & Technologies
+
+All tools used in this project are free or commonly used:
 
 Microsoft Excel
 
 Pivot Tables
 
-Pivot Charts
+Excel Charts
 
 Excel Formulas
 
-Data Cleaning
+Git & GitHub
 
-Dashboard Design
+🚀 Project Requirements
+Building the Dashboard (Data Analysis)
 
-📂 Dataset Description
+Objective
+Develop a professional Excel dashboard to analyze sales data and generate business insights.
 
-The dataset consists of three main tables:
+Specifications
 
-1️⃣ Orders Table
+Data Sources: Business datasets stored in Excel
 
-Contains transaction-level sales data:
+Data Quality: Clean and resolve data issues before analysis
 
-Order ID
+Integration: Combine multiple tables into a unified dataset
 
-Customer ID
+Scope: Sales analysis dataset
 
-Product ID
+Documentation: Clear dataset structure for users
 
-Quantity
+BI: Analytics & Reporting (Data Analysis)
 
-Sales Amount
+Objective
+Develop Excel-based analytics to deliver insights into:
 
-2️⃣ Customers Table
+Customer Behavior
 
-Contains customer information:
+Product Performance
 
-Customer ID
+Sales Trends
 
-Customer Name
+These insights help stakeholders understand business performance.
 
-Country
+For more details, refer to docs/project_notes.md.
 
-3️⃣ Products Table
+📂 Repository Structure
 
-Contains product information:
-
-Product ID
-
-Product Name
-
-Category
-
-📊 Dashboard Features
-
-The Excel Dashboard includes:
-
-✔ Total Sales Overview
-✔ Sales by Country
-✔ Top Customers
-✔ Product Sales Analysis
-✔ Clean Visual Layout
-
-🖼 Dashboard Preview
-
-After uploading your screenshot, add this line:
-
-![Dashboard](Screenshots/dashboard.png)
-📁 Project Structure
-excel-sales-dashboard-project
+excel-data-analysis-project/
+├── 📂 Data/ (Excel Dataset)
+│      Zeus.xlsx
 │
-├── Data
-│   └── Zeus.xlsx
-│
-├── Screenshots
-│   └── dashboard.png
+├── 📂 Screenshots/ (Dashboard Images)
+│      dashboard.png
 │
 └── README.md
-📈 Skills Demonstrated
 
-This project demonstrates:
+🌟 About Me
+
+Hi! I’m Rupan 👋
+An aspiring Data Analyst / Business Analyst with hands-on experience in:
+
+Excel
+
+SQL
 
 Data Analysis
 
-Data Cleaning
-
-Business Intelligence
+Data Warehousing
 
 Dashboard Development
 
-Excel Modeling
-
-Analytical Thinking
-
-🚀 Key Insights
-
-Examples of insights from the dashboard:
-
-Some countries generate the highest sales
-
-A small number of customers contribute most revenue
-
-Certain products outperform others
-
-Sales distribution varies by region
-
-⭐ Why This Project Matters
-
-This project demonstrates real-world business analysis using Excel, which is one of the most widely used tools for Data Analysts.
-
-It shows the ability to:
-
-Work with structured datasets
-
-Build dashboards
-
-Extract business insights
-
-Present data visually
-
-👨‍💻 Author
-
-Rahul Rupan
-
-GitHub Profile:
-
+🔗 GitHub:
 https://github.com/RahulRupan
