@@ -119,7 +119,7 @@ Through this project I learned:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Me
 
 **Rahul**
 
