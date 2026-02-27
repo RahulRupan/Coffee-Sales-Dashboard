@@ -1,136 +1,46 @@
-📊 Excel Data Analysis and Dashboard Project
+☕ Coffee Sales Analysis Dashboard (Excel)
+🚀 Project Overview
+This project demonstrates advanced Excel capabilities by transforming raw coffee sales data into an interactive, professional dashboard. The analysis covers sales performance, customer behavior, and product trends across different global markets from 2019 to 2022.
 
-Welcome to the My Excel Data Analysis Project repository! 🚀
-This project demonstrates a complete Excel-based data analysis and dashboard solution, from preparing raw data to generating business insights. It highlights skills in data analysis, dashboard development, and business reporting using Microsoft Excel.
+🔍 Key Business Questions Addressed
+Sales Trends: How have sales for different coffee types evolved over the last 4 years?
 
-🏗️ Data Architecture
+Market Share: Which countries (US, UK, Ireland) are our primary revenue drivers?
 
-The data architecture for this project follows a structured Excel data model using Raw Data, Clean Data, and Dashboard layers.
+Customer Loyalty: Who are our top 5 customers, and does having a loyalty card impact their spending?
 
-🟤 Raw Data Layer
+Product Preferences: Which roast types and package sizes are most popular among consumers?
 
-Stores raw data as-is from the source dataset
+🛠️ Skills & Excel Techniques Used
+Data Cleaning: Handled missing values (emails/phones), removed duplicates, and standardized date formats.
 
-Data is stored in Excel worksheets
+Advanced Formulas: Utilized XLOOKUP and INDEX-MATCH to merge data from Product and Customer tables into a master Order sheet.
 
-⚪ Clean Data Layer
+Data Transformation: Created helper columns for dynamic categorization (e.g., converting "Ara" to "Arabica").
 
-Performs data cleansing and standardization
+Pivot Tables & Charts: Aggregated thousands of rows of data to create meaningful summaries.
 
-Resolves data quality issues to prepare data for analysis
+Interactive Design: Implemented Slicers and Timelines to allow users to filter data by Roast Type, Size, and Date.
 
-Formats columns and removes duplicates
+📂 Dataset Breakdown
+The project utilizes three primary relational datasets:
 
-🟡 Dashboard Layer
+Orders: Transactional data including quantities, dates, and product/customer IDs.
 
-Houses business-ready insights
+Customers: Demographics including names, locations, and loyalty program status.
 
-Data is analyzed using Pivot Tables and Charts
+Products: Product details including Coffee Type (Arabica, Robusta, etc.), Roast Type, Unit Price, and Profit.
 
-Interactive dashboard for reporting and analytics
+📈 Key Insights
+US Dominance: The United States represents the largest market share, contributing over $35,000 in total sales.
 
-📐 Architecture Diagram
-![Dashboard](Screenshots/dashboard.png)
-📖 Project Overview
+Top Performer: Allis Wilmore is the highest-spending customer, followed closely by Brenn Dundredge.
 
-This project involves:
-
-Data Preparation: Cleaning and organizing raw Excel data
-
-Data Analysis: Using Pivot Tables and Excel formulas
-
-Dashboard Development: Creating an interactive Excel dashboard
-
-Analytics & Reporting: Generating business insights from data
-
-🎯 Skills Demonstrated
-
-This repository is an excellent resource for showcasing expertise in:
-
-Excel Data Analysis
-
-Data Cleaning
-
-Dashboard Development
-
-Pivot Tables
-
-Data Visualization
-
-Business Analysis
-
-🛠️ Tools & Technologies
-
-All tools used in this project are free or commonly used:
-
-Microsoft Excel
-
-Pivot Tables
-
-Excel Charts
-
-Excel Formulas
-
-Git & GitHub
-
-🚀 Project Requirements
-Building the Dashboard (Data Analysis)
-
-Objective
-Develop a professional Excel dashboard to analyze sales data and generate business insights.
-
-Specifications
-
-Data Sources: Business datasets stored in Excel
-
-Data Quality: Clean and resolve data issues before analysis
-
-Integration: Combine multiple tables into a unified dataset
-
-Scope: Sales analysis dataset
-
-Documentation: Clear dataset structure for users
-
-BI: Analytics & Reporting (Data Analysis)
-
-Objective
-Develop Excel-based analytics to deliver insights into:
-
-Customer Behavior
-
-Product Performance
-
-Sales Trends
-
-These insights help stakeholders understand business performance.
-
-For more details, refer to docs/project_notes.md.
-
-📂 Repository Structure
-
-excel-data-analysis-project/
-├── 📂 Data/ (Excel Dataset)
-│      Zeus.xlsx
-│
-├── 📂 Screenshots/ (Dashboard Images)
-│      dashboard.png
-│
-└── README.md
+Variety Trends: Arabica coffee consistently shows high demand across all roast types (Light, Medium, Dark).
 
 🌟 About Me
-
 Hi! I’m Rupan 👋
-An aspiring Data Analyst / Business Analyst with hands-on experience in:
 
-Excel
+An aspiring Data Analyst passionate about turning raw data into visual stories.
 
-SQL
-
-Data Analysis
-
-Data Warehousing
-
-Dashboard Development
-
-🔗 GitHub:
-https://github.com/RahulRupan
+🔗 GitHub: https://github.com/RahulRupan
