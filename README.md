@@ -1,32 +1,43 @@
 # ☕ Coffee Sales Analysis Dashboard (Excel)
 
 ## 🚀 Project Overview
-This project focuses on transforming raw transactional data into an interactive Excel Dashboard. It analyzes coffee sales from 2019 to 2022, providing insights into revenue trends, customer behavior, and regional performance.
+This project focuses on transforming raw transactional data into an interactive Excel Dashboard. It analyzes coffee sales from 2019 to 2022, providing insights into revenue trends, customer high-value behavior, and regional performance across the US, UK, and Ireland.\
 
-![Coffee Sales Dashboard](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/c7d8daa60efe7171351f1a1f47b4b8812b129aab/visualization%20(screenshots)/dashboard.png)
+![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/d859260bedf3628d7e5941bcde937ba68cbd5ea1/visualization%20(screenshots)/dashboard.png)
 
 ---
 
 ## 🛠️ Excel Skills & Technical Implementation
 I utilized advanced Excel features to build this end-to-end solution:
 
-* **Data Cleaning:** Used `TRIM`, handled duplicates, and fixed missing contact info.
-* **Data Modeling:** Implemented **XLOOKUP** and **INDEX-MATCH** to link Orders, Customers, and Products.
-* **Analysis:** Built **Pivot Tables** to aggregate sales data by time, country, and product type.
-* **Interactive Visualization:** * **Dynamic Charts:** Line graphs for trends and Bar charts for rankings.
-    * **Slicers & Timelines:** Interactive filters for Roast Type, Size, and Loyalty Status.
+* **Data Cleaning:** Used `TRIM`, removed duplicates, and handled missing contact information (emails/phones).
+* **Data Modeling:** Implemented **XLOOKUP** and **INDEX-MATCH** to create a relational structure between the Orders, Customers, and Products tables.
+* **Formula Logic:** Created calculated columns for total sales, unit conversion, and dynamic coffee type naming.
+* **Analysis:** Built multiple **Pivot Tables** to aggregate thousands of rows of data into meaningful business metrics.
+* **Interactive Visualization:** * **Dynamic Dashboards:** Created Pivot Charts (Line, Bar, and Column).
+    * **Slicers:** Added interactive filters for *Roast Type*, *Size*, and *Loyalty Card* status.
+    * **Timeline:** Added a date-based filter to switch between years and months instantly.
+
+---
+
+## 📂 Repository Structure
+* **orders.csv:** Transaction data (Quantity, Product IDs, Dates).
+* **customers.csv:** Detailed customer profiles and loyalty status.
+* **products.csv:** Product catalog with pricing and roast details.
+* **Coffee_sales_Dashboard.xlsx:** The final interactive dashboard file.
 
 ---
 
 ## 📈 Key Business Insights
-* **Top Market:** The **United States** is the primary revenue driver, contributing over **$35,000**.
+* **Top Market:** The **United States** is the primary revenue driver, contributing over $35,000 in sales.
 * **Top Customer:** **Allis Wilmore** is the highest-spending customer ($317.07).
-* **Loyalty Impact:** Most top-performing customers use the **Loyalty Card** program.
+* **Product Performance:** **Arabica** coffee is the most popular variety across all regions.
+* **Loyalty Impact:** A high percentage of the top 5 customers are part of the **Loyalty Card** program, proving its effectiveness.
 
 ---
 
 ## 🌟 About Me
 Hi, I'm **Rupan** 👋  
-Aspiring **Data Analyst** | SQL | Excel | Data Warehousing
+An aspiring **Data Analyst** focused on SQL, Excel, and Data Warehousing. I enjoy turning complex data into actionable visual stories.
 
 🔗 **Connect with me:** [GitHub Profile](https://github.com/RahulRupan)
