@@ -1,46 +1,42 @@
-☕ Coffee Sales Analysis Dashboard (Excel)
-🚀 Project Overview
-This project demonstrates advanced Excel capabilities by transforming raw coffee sales data into an interactive, professional dashboard. The analysis covers sales performance, customer behavior, and product trends across different global markets from 2019 to 2022.
+# ☕ Coffee Sales Analysis Dashboard (Excel)
 
-🔍 Key Business Questions Addressed
-Sales Trends: How have sales for different coffee types evolved over the last 4 years?
+## 🚀 Project Overview
+This project focuses on transforming raw transactional data into an interactive Excel Dashboard. It analyzes coffee sales from 2019 to 2022, providing insights into revenue trends, customer high-value behavior, and regional performance across the US, UK, and Ireland.
 
-Market Share: Which countries (US, UK, Ireland) are our primary revenue drivers?
+---
 
-Customer Loyalty: Who are our top 5 customers, and does having a loyalty card impact their spending?
+## 🛠️ Excel Skills & Technical Implementation
+I utilized advanced Excel features to build this end-to-end solution:
 
-Product Preferences: Which roast types and package sizes are most popular among consumers?
+* **Data Cleaning:** Used `TRIM`, removed duplicates, and handled missing contact information (emails/phones).
+* **Data Modeling:** Implemented **XLOOKUP** and **INDEX-MATCH** to create a relational structure between the Orders, Customers, and Products tables.
+* **Formula Logic:** Created calculated columns for total sales, unit conversion, and dynamic coffee type naming.
+* **Analysis:** Built multiple **Pivot Tables** to aggregate thousands of rows of data into meaningful business metrics.
+* **Interactive Visualization:** * **Dynamic Dashboards:** Created Pivot Charts (Line, Bar, and Column).
+    * **Slicers:** Added interactive filters for *Roast Type*, *Size*, and *Loyalty Card* status.
+    * **Timeline:** Added a date-based filter to switch between years and months instantly.
 
-🛠️ Skills & Excel Techniques Used
-Data Cleaning: Handled missing values (emails/phones), removed duplicates, and standardized date formats.
+---
 
-Advanced Formulas: Utilized XLOOKUP and INDEX-MATCH to merge data from Product and Customer tables into a master Order sheet.
+## 📂 Repository Structure
+* **orders.csv:** Transaction data (Quantity, Product IDs, Dates).
+* **customers.csv:** Detailed customer profiles and loyalty status.
+* **products.csv:** Product catalog with pricing and roast details.
+* **Coffee_sales_Dashboard.xlsx:** The final interactive dashboard file.
 
-Data Transformation: Created helper columns for dynamic categorization (e.g., converting "Ara" to "Arabica").
+---
 
-Pivot Tables & Charts: Aggregated thousands of rows of data to create meaningful summaries.
+## 📈 Key Business Insights
+* **Top Market:** The **United States** is the primary revenue driver, contributing over $35,000 in sales.
+* **Top Customer:** **Allis Wilmore** is the highest-spending customer ($317.07).
+* **Product Performance:** **Arabica** coffee is the most popular variety across all regions.
+* **Loyalty Impact:** A high percentage of the top 5 customers are part of the **Loyalty Card** program, proving its effectiveness.
 
-Interactive Design: Implemented Slicers and Timelines to allow users to filter data by Roast Type, Size, and Date.
+---
 
-📂 Dataset Breakdown
-The project utilizes three primary relational datasets:
+## 🌟 About Me
+Hi, I'm **Rupan** 👋  
+An aspiring **Data Analyst** focused on SQL, Excel, and Data Warehousing. I enjoy turning complex data into actionable visual stories.
 
-Orders: Transactional data including quantities, dates, and product/customer IDs.
+🔗 **Connect with me:** [GitHub Profile](https://github.com/RahulRupan)
 
-Customers: Demographics including names, locations, and loyalty program status.
-
-Products: Product details including Coffee Type (Arabica, Robusta, etc.), Roast Type, Unit Price, and Profit.
-
-📈 Key Insights
-US Dominance: The United States represents the largest market share, contributing over $35,000 in total sales.
-
-Top Performer: Allis Wilmore is the highest-spending customer, followed closely by Brenn Dundredge.
-
-Variety Trends: Arabica coffee consistently shows high demand across all roast types (Light, Medium, Dark).
-
-🌟 About Me
-Hi! I’m Rupan 👋
-
-An aspiring Data Analyst passionate about turning raw data into visual stories.
-
-🔗 GitHub: https://github.com/RahulRupan
