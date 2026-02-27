@@ -1,45 +1,46 @@
+
+
 # ☕ Coffee Sales Analysis Dashboard (Excel)
 
 ## 🚀 Project Overview
-This project focuses on transforming raw transactional data into an interactive Excel Dashboard. It analyzes coffee sales from 2019 to 2022, providing insights into revenue trends, customer high-value behavior, and regional performance across the US, UK, and Ireland.
+This project involves a comprehensive analysis of a coffee retail dataset (2019-2022). I transformed raw transactional data across three different sources (Orders, Customers, and Products) into an interactive Excel Dashboard to help stakeholders track sales performance and customer loyalty.
 
-![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/41d480ab2c53b7caa714ff7150d091dbb5e27bd7/visualization%20(screenshots)/dashboard.png)
-
+<p align="center">
+  <img src="dashboard.png" alt="Coffee Sales Dashboard Preview" width="800">
+</p>
 
 ---
 
-## 🛠️ Excel Skills & Technical Implementation
-I utilized advanced Excel features to build this end-to-end solution:
+## 🛠️ Technical Implementation & Skills
+This project demonstrates advanced proficiency in Excel, specifically in the following areas:
 
-* **Data Cleaning:** Used `TRIM`, removed duplicates, and handled missing contact information (emails/phones).
-* **Data Modeling:** Implemented **XLOOKUP** and **INDEX-MATCH** to create a relational structure between the Orders, Customers, and Products tables.
-* **Formula Logic:** Created calculated columns for total sales, unit conversion, and dynamic coffee type naming.
-* **Analysis:** Built multiple **Pivot Tables** to aggregate thousands of rows of data into meaningful business metrics.
-* **Interactive Visualization:** * **Dynamic Dashboards:** Created Pivot Charts (Line, Bar, and Column).
-    * **Slicers:** Added interactive filters for *Roast Type*, *Size*, and *Loyalty Card* status.
-    * **Timeline:** Added a date-based filter to switch between years and months instantly.
+* **Data Cleaning & Preprocessing:** Standardized date formats, removed duplicates, and handled missing values in customer contact information.
+* **Data Modeling (XLOOKUP & INDEX-MATCH):** Linked multiple relational tables (Orders, Customers, and Products) to create a unified master dataset.
+* **Advanced Formulas:** Created calculated columns for total sales per line item, coffee variety categorization, and roast type mapping.
+* **Pivot Tables & Analysis:** Aggregated over 1,000 rows of data to calculate total revenue, regional sales, and top-performing products.
+* **Interactive Visualization:** * Developed **Dynamic Charts** (Line, Bar, and Column).
+    * Implemented **Slicers** to filter data by Roast Type, Coffee Size, and Loyalty Card status.
+    * Included a **Timeline Filter** for multi-year trend analysis.
+
+---
+
+## 📊 Business Insights
+* **Regional Lead:** The **United States** is the highest revenue-generating country, followed by Ireland and the UK.
+* **Product Performance:** **Arabica** coffee varieties show the highest consumer demand across all roast types.
+* **Customer Loyalty:** 80% of the top 5 customers are members of the **Loyalty Card** program, indicating high customer retention through loyalty incentives.
 
 ---
 
 ## 📂 Repository Structure
-* **orders.csv:** Transaction data (Quantity, Product IDs, Dates).
-* **customers.csv:** Detailed customer profiles and loyalty status.
-* **products.csv:** Product catalog with pricing and roast details.
-* **Coffee_sales_Dashboard.xlsx:** The final interactive dashboard file.
-
----
-
-## 📈 Key Business Insights
-* **Top Market:** The **United States** is the primary revenue driver, contributing over $35,000 in sales.
-* **Top Customer:** **Allis Wilmore** is the highest-spending customer ($317.07).
-* **Product Performance:** **Arabica** coffee is the most popular variety across all regions.
-* **Loyalty Impact:** A high percentage of the top 5 customers are part of the **Loyalty Card** program, proving its effectiveness.
+* `Coffee_sales_Dashboard.xlsx`: The main project file containing the dataset and the interactive dashboard.
+* `datasets/`: Raw CSV files for Orders, Customers, and Products.
+* `dashboard.png`: A screenshot of the final dashboard visualization.
 
 ---
 
 ## 🌟 About Me
 Hi, I'm **Rupan** 👋  
-An aspiring **Data Analyst** focused on SQL, Excel, and Data Warehousing. I enjoy turning complex data into actionable visual stories.
+Aspiring **Data Analyst** specializing in SQL, Excel, and Business Intelligence. I enjoy building tools that turn raw data into strategic insights.
 
 🔗 **Connect with me:** [GitHub Profile](https://github.com/RahulRupan)
 
