@@ -1,6 +1,6 @@
-# ☕ Coffee Sales Dashboard
+#  Coffee Sales Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 This project is an interactive **Coffee Sales Dashboard** built using Microsoft Excel to analyze sales performance, customer behavior, and product trends.
 
@@ -10,7 +10,7 @@ This project demonstrates my skills in **data cleaning, Excel analysis, and dash
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 A coffee business wants to understand:
 
@@ -24,7 +24,7 @@ This dashboard helps management make **data-driven decisions.**
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 
 ### Tools
 - Microsoft Excel
@@ -41,7 +41,7 @@ This dashboard helps management make **data-driven decisions.**
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 The dashboard includes:
 
@@ -54,7 +54,7 @@ The dashboard includes:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 Some important insights from the dashboard:
 
@@ -65,7 +65,7 @@ Some important insights from the dashboard:
 
 ---
 
-## 🔄 Project Process
+##  Project Process
 
 ### Step 1 — Data Cleaning
 
@@ -99,7 +99,7 @@ Some important insights from the dashboard:
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 Through this project I learned:
 
@@ -110,7 +110,7 @@ Through this project I learned:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Tableau version
 - SQL version
@@ -128,7 +128,7 @@ https://github.com/RahulRupan
 
 ---
 
-## ⭐ Why This Project Matters
+##  Why This Project Matters
 
 This project demonstrates my ability to:
 
