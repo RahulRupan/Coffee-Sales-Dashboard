@@ -102,6 +102,12 @@ Key sections:
 
 ![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/d859260bedf3628d7e5941bcde937ba68cbd5ea1/visualization%20(screenshots)/dashboard.png)
 
+## 📈 Key Business Story
+
+The analysis reveals that a few products and customers drive the majority of revenue.
+Sales are concentrated in specific regions and time periods, indicating opportunities for targeted marketing and inventory planning.
+
+This suggests the business can increase profitability by focusing on high-performing products and optimizing low-performing segments.
 ---
 
 ##  What I Learned
