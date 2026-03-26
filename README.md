@@ -64,9 +64,9 @@ The dashboard includes:
 
 Some important insights from the dashboard:
 
-- Certain coffee products generate the highest revenue
-- A small number of customers contribute a large portion of sales
-- Sales vary across different countries
+- Excelsa coffee products generate the highest revenue by $12,306
+- Top 5 customers contribute ~35% of total sales → strong customer concentration risk
+- USA contributes ~45% of total revenue, making it the primary market
 - Monthly trends help identify peak sales periods
 
 ---
