@@ -6,7 +6,7 @@ This project is an interactive **Coffee Sales Dashboard** built using Microsoft 
 
 The goal of this project is to transform raw sales data into meaningful **business insights** that help decision-makers understand sales performance and improve strategy.
 
-## 💼 Business Impact
+##  Business Impact
 
 This dashboard can help businesses:
 - Identify top-performing products to increase revenue
