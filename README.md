@@ -95,6 +95,11 @@ Some important insights from the dashboard:
 
 ## 📷 Dashboard Preview
 
+Key sections:
+- Top-left: Total Sales KPI
+- Right: Sales by Country
+- Bottom: Monthly Trend Analysis
+
 ![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/d859260bedf3628d7e5941bcde937ba68cbd5ea1/visualization%20(screenshots)/dashboard.png)
 
 ---
