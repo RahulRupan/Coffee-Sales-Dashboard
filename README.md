@@ -6,7 +6,13 @@ This project is an interactive **Coffee Sales Dashboard** built using Microsoft 
 
 The goal of this project is to transform raw sales data into meaningful **business insights** that help decision-makers understand sales performance and improve strategy.
 
-This project demonstrates my skills in **data cleaning, Excel analysis, and dashboard design.**
+## 💼 Business Impact
+
+This dashboard can help businesses:
+- Identify top-performing products to increase revenue
+- Optimize inventory based on demand trends
+- Focus marketing on high-value customers
+- Improve decision-making using data-driven insights
 
 ---
 
@@ -102,7 +108,7 @@ Key sections:
 
 ![Data Architecture](https://github.com/RahulRupan/Coffee-Sales-Dashboard/blob/d859260bedf3628d7e5941bcde937ba68cbd5ea1/visualization%20(screenshots)/dashboard.png)
 
-## 📈 Key Business Story
+##  Key Business Story
 
 The analysis reveals that a few products and customers drive the majority of revenue.
 Sales are concentrated in specific regions and time periods, indicating opportunities for targeted marketing and inventory planning.
